@@ -1,1 +1,3 @@
-# SE3355Midterm.github.io
+# SE3355Midterm.github.io  
+
+In this project, I made a form website. While making this site, I used html, css, js and added bootstrap to them. The navbar section is completely bootstrap and thanks to js, when a button is clicked, it is directed to a blank page. The form contains labels, selects and buttons. I added 2 different APIs to the Course Type and City selector, which I created on the mocky.io site, including 10 cities and 10 course types. With JS, I checked whether the fields that needed to be filled in the form were empty, returned an error if they were empty, and if everything was OK, I opened a page that said "Form is submitted" when the button in the form was pressed. In addition, I checked whether the phone was a Turkish phone and whether the e-mail was a valid e-mail.
